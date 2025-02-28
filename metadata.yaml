@@ -1,11 +1,16 @@
 _repo: The-Duke-of-York-s-steps_75318
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75318-h/images/cover.jpg
 creator:
   author:
     agent_name: Wade, Henry
     gutenberg_agent_id: '57943'
     url: http://www.gutenberg.org/2009/agents/57943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75318#The-Duke-of-York-s-steps
 gutenberg_issued: '2025-02-08'
 gutenberg_type: Text
 identifiers:
